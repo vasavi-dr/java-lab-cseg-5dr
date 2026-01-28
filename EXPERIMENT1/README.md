@@ -22,6 +22,8 @@ class DisplayDefaultPrimitiveType{
    }
  }
 ```
+## output :
+![experiment1output](1a.png)
 # 1b)To calculate the roots of quadratic equation
 # sourcecode:
 ``` java
@@ -60,3 +62,15 @@ class QuadraticEquationSolution{
    }
  }
 }
+```
+## output :
+## case-1(D>0):
+![experiment1output](quad1.png)
+## output :
+## case-2(D=0):
+![experiment1output](quad2.png)
+## output :
+## case-3(D<0):
+![experiment1output](quad3.png)
+
+
